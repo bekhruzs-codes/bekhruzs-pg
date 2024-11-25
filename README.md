@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @bekhruzs-codes
+- 👀 I’m interested in Machine Learning, Robotics and AI
+- 🌱 I’m currently learning Machine Learning
